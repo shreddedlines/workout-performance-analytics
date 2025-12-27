@@ -138,3 +138,8 @@ The dashboard enables multi-perspective performance evaluation while avoiding mi
 ## Note
 
 This project intentionally avoids machine learning to maintain interpretability and analytical rigor, focusing instead on clear, decision-ready insights.
+
+## Author
+**Kshitish**  
+Data Science Undergraduate  
+Interested in data analysis, performance tracking, and building insight-driven systems
